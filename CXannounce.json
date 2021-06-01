@@ -1,5 +1,14 @@
 {
     "anytime" : [
-        "Cristaux we go!"
+        "Hey there Cristaux!"
     ],
- }
+    "morning" : [
+        "Hey there Cristaux!"
+    ],
+    "afternoon" : [
+        "Hey there Cristaux!"
+    ],
+    "evening" : [
+        "Hey there Cristaux!"
+    ]
+}
